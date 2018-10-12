@@ -25,7 +25,7 @@ test_timestwo <- function(x) {
 
 #' Yesihave 
 #'
-#' This function acknowlewdges itself
+#' This function acknowledges itself
 #'
 #' @return A stringy greeting
 #' @export
