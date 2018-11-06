@@ -30,7 +30,7 @@ test_timestwo <- function(x) {
 #' @return A stringy greeting
 #' @export
 test_yesIhave <- function() {
-  y <- "Yarrrr I got it matey"
+  y <- "Ho ho harrr I got it Captain"
   y
 }
 
